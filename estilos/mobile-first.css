@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+    background-image: url(../imagens/bg-papel.jpg);
+}
+
+#tela{
+    width: 100vw;
+    height: 100vh;
+    background-color: #bfa8a3;
+    opacity: 92%;
+    box-shadow: inset 0px 0px 30px black;
+}
